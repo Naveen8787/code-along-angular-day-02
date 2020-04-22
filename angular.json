@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CodeAlong"
+    }
+  },
+  "defaultProject": "CodeAlong",
+  "cli": {
+    "analytics": "dedd7f56-58a1-4260-a7f0-1dd75c3e4bbb"
+  }
 }
